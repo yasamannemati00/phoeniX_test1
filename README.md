@@ -5,7 +5,7 @@ Computer Organization - Spring 2024
 
 - Name: Yasaman Nemati
 - Team Members: Elham Estiry / Sanaz motie
-- Student ID: 99413236
+- Student ID: 99413226
 - Date: 28/05/2024
 
 ## Report
